@@ -2,17 +2,20 @@
 
 # Pomocník pro umisťování SMD součástek
 
-Video ukázka zde: https://www.youtube.com/watch?v=_GLwL85tIqo
+Video ukázka zde: 
+
+[![alt text](video-preview.png)][https://www.youtube.com/watch?v=LVttwEwAXvI]
 
 Soubory pro 3D tisk: https://www.printables.com/model/1296320-smd-pick-and-place-table
 
-Zdrojáky pro 3D model: https://cad.onshape.com/documents/bf77973fe373a59ededb9eb3/w/fd4746b66ac4c9f5be0a092b/e/c65b6b765ea4744c6770720e?renderMode=0&uiState=6824bef04ff0807716bb09a0
 
 Jednoduchý a levný pomocník pro umisťování SMD součástek na desku plošných spojů. Je čistě manuální, jedinou elektronikou je vzduchové čerpadlo a nožní spínač. 
 
 Důvodem konstrukce byla má nešikovnost: pinzetou sice umístím 1206 nebo 0805 součástku na desku, ale u 0402 už jde přesnost do háje protože se mi třese ruka, podobné je to s QFN. Potřeboval jsem jednak nějakou opěrku ruky, a současně i nástroj který bych ovládal nohou a eliminoval tak nechtěné drbnutí do součástky při uvolňování stisku.
 
-![alt text](image-1.png)
+Zdrojáky pro 3D model jsou [zde v Onshape](https://cad.onshape.com/documents/bf77973fe373a59ededb9eb3/w/fd4746b66ac4c9f5be0a092b/e/c65b6b765ea4744c6770720e?renderMode=0&uiState=6824bef04ff0807716bb09a0).
+
+![alt text](render.png)
 
 ## Komponenty
 
@@ -47,4 +50,5 @@ FIXME TODO
 
 
 https://www.instructables.com/Vacuum-Pump-from-Aquarium-Air-Pump/
+
 
