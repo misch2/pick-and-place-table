@@ -69,7 +69,7 @@ Lepší by byl spínač s integrovanou zásuvkou, ale takový jsem nenašel. Pok
 
 Soubory pro 3D tisk jsou [zde na Printables](https://www.printables.com/model/1296320-smd-pick-and-place-table). Je tam i 3MF soubor pro Bambulab A1 Mini. 
 
-S výjimkou samotného držáku pera se dá vše tisknout bez podpor. Zkompletování je snadné, stačí zasunout ložiska do držáků, šrouby a matkami spojit *volně* držáky ložisek s jejich protikusy, nasunout vodící tyče, připevnit vše vruty na desku, odzkoušet že se vše pohybuje jak má, a dotáhnout šrouby na držácího ložisek.
+S výjimkou samotného držáku pera se dá vše tisknout bez podpor. Zkompletování je snadné, stačí zasunout ložiska do držáků, šrouby a matkami spojit *volně* držáky ložisek s jejich protikusy, nasunout vodící tyče, připevnit vše vruty na desku, odzkoušet že se vše pohybuje jak má, a dotáhnout šrouby.
 
 Já jsem, jak vidno z fotek, použil jen cca polovinu šroubů ke spojení dílů a vše i tak drží naprosto pevně.
 
