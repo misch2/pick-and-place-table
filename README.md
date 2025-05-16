@@ -8,7 +8,9 @@ Jednoduchý a levný pomocník pro umisťování SMD součástek na desku plošn
 
 Důvodem konstrukce byla má nešikovnost: pinzetou sice umístím 1206 nebo 0805 součástku na desku, ale u 0402 už jde přesnost do háje protože se mi třese ruka, podobné je to s QFN. Potřeboval jsem jednak nějakou opěrku ruky, a současně i nástroj který bych ovládal nohou a eliminoval tak nechtěné drbnutí do součástky při uvolňování stisku.
 
-K dispozici jsou i [podklady v Onshape](https://cad.onshape.com/documents/bf77973fe373a59ededb9eb3/w/fd4746b66ac4c9f5be0a092b/e/c65b6b765ea4744c6770720e?renderMode=0&uiState=6824bef04ff0807716bb09a0), můžete si vše přemodelovat jak potřebujete.
+Odkazy:
+ - 3D model pro tisk: https://www.printables.com/model/1296320-smd-pick-and-place-table
+ - Podklady v Onshape: https://cad.onshape.com/documents/bf77973fe373a59ededb9eb3/w/fd4746b66ac4c9f5be0a092b/e/c65b6b765ea4744c6770720e?renderMode=0&uiState=6824bef04ff0807716bb09a0
 
 ![alt text](render.png)
 
