@@ -4,7 +4,7 @@
 
 Video ukázka zde: 
 
-[![alt text](video-preview.png)][https://www.youtube.com/watch?v=LVttwEwAXvI]
+[![Watch the video](https://raw.githubusercontent.com/misch2/pick-and-place-table/refs/heads/main/video-preview.png)](https://www.youtube.com/watch?v=LVttwEwAXvI)
 
 Soubory pro 3D tisk: https://www.printables.com/model/1296320-smd-pick-and-place-table
 
