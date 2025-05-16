@@ -58,9 +58,9 @@ Uvedený nožní spínač je potřeba zapojit do série s pumpou. Já to vyřeš
 
 | Odkud | Kam |
 | - | - |
-| nožní spínač, černý drát ⬛ | (nebude zapojeno -- důkladně zaizolovat!⚠️) |
-| nožní spínač, červený drát 🟥| přívodní šňůra, hnědý drát 🟫|
+| nožní spínač, černý drát ⬛| (nebude zapojeno -- důkladně zaizolovat!⚠️) |
 | nožní spínač, bílý drát ⬜| pumpa, hnědý drát 🟫|
+| přívodní šňůra, hnědý drát 🟫| nožní spínač, červený drát 🟥|
 | přívodní šňůra,  modrý drát 🟦| pumpa, modrý drát 🟦|
 
 Lepší by byl spínač s integrovanou zásuvkou, ale takový jsem nenašel. Pokud máte nějaký tip, dejte vědět.
