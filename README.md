@@ -6,7 +6,7 @@ Video ukázka zde:
 
 Jednoduchý a levný pomocník pro umisťování SMD součástek na desku plošných spojů. Je čistě manuální, jedinou elektronikou je vzduchové čerpadlo a nožní spínač. 
 
-Důvodem konstrukce byla má nešikovnost: pinzetou sice umístím 1206 nebo 0805 součástku na desku, ale u 0402 už jde přesnost do háje protože se mi třese ruka, podobné je to s QFN. Potřeboval jsem jednak nějakou opěrku ruky, a současně i nástroj který bych ovládal nohou a eliminoval tak nechtěné drbnutí do součástky při uvolňování stisku.
+Důvodem konstrukce byla má nešikovnost: pinzetou sice umístím 1206 nebo 0805 součástku na desku, ale u 0402 už jde přesnost do háje protože se mi třese ruka. Podobné je to i s QFN. Potřeboval jsem tedy jednak nějakou opěrku ruky a současně i nástroj který bych ovládal nohou a eliminoval tak nechtěné drbnutí do součástky při jejím uvolňování.
 
 Odkazy:
  - 3D model pro tisk: https://www.printables.com/model/1296320-smd-pick-and-place-table
