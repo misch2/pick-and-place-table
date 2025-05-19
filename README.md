@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/misch2/pick-and-place-table/blob/master/README.md)
-[![cs](https://img.shields.io/badge/lang-cs-blue.svg)](https://github.com/misch2/pick-and-place-table/blob/master/README.cs.md)
+[![en](https://img.shields.io/badge/language-english-green.svg)](https://github.com/misch2/pick-and-place-table/blob/main/README.md)
+[![cs](https://img.shields.io/badge/jazyk-česky-blue.svg)](https://github.com/misch2/pick-and-place-table/blob/main/README.cs.md)
 
 # SMD component placement assistant
 
